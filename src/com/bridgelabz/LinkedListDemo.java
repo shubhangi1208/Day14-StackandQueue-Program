@@ -1,7 +1,8 @@
 package com.bridgelabz;
 
 import java.util.Scanner;
-
+public class LinkedListDemo {
+}
     class Node {
         int data;
         Node next;
